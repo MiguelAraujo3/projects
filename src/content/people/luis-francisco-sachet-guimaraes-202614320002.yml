@@ -3,11 +3,12 @@ name:
   full: Luis Francisco Sachet Guimaraes
 avatar:
   github: https://github.com/Luis2346.png
+  githubUC: https://avatars.githubusercontent.com/u/280549109?v=4
 occupations:
   - id: 202614320002
     type: student
     course: csbes-jp
-    isFinished: False
+    isFinished: false
 addresses:
   github: https://github.com/Luis2346
   linkedin: https://www.linkedin.com/in/luis-francisco-sachet-guimaraes-0a6271441/
