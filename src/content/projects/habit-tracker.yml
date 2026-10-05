@@ -7,13 +7,12 @@ addresses:
   homepage: https://miguelaraujo3.github.io/habit-tracker/
   repository: https://github.com/miguelaraujo3/habit-tracker
 category:
-  type: subject  # ou 'subject', 'research', 'extension', 'open source'
+  type: subject
   subject: pw2-csbes-jp
-  period: 2026.2   # necessário para projetos de disciplina
+  period: 2026.2
 tags:
   - HTML
   - CSS
   - GIT
 owners:
-  - 202614320024  # matrícula/ID dos colaboradores
-  -
+  - 202614320024
