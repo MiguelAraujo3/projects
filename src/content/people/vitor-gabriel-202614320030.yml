@@ -1,16 +1,14 @@
 name:
   compact: Vítor Gabriel
   full: Vítor Gabriel dos Santos Macena da Silva
-
 avatar:
   github: https://github.com/vitorgsms.png
-
+  githubUC: https://avatars.githubusercontent.com/u/283266608?v=4
 occupations:
   - id: 202614320030
     type: student
     course: csbes-jp
     isFinished: false
-
 addresses:
   github: https://github.com/vitorgsms
   linkedin: https://www.linkedin.com/in/vitorgsms
