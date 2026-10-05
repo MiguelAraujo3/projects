@@ -1,0 +1,19 @@
+name:
+  compact: Lucas Francelino
+  full: Lucas Francelino de Pontes
+avatar:
+  github: https://github.com/Lucasfrancelinopontes.png
+  githubUC: https://avatars.githubusercontent.com/u/177571887
+occupations:
+  - id: 202614320011
+    type: student
+    course: csbes-jp
+    isFinished: false
+    - id: 20231780003
+    type: student
+    course: ctii-jp
+    isFinished: true
+addresses:
+  github: https://github.com/Lucasfrancelinopontes
+  linkedin: https://www.linkedin.com/in/lucas-francelino-pontes
+  email: lucasfrancelinopontes@gmail.com
