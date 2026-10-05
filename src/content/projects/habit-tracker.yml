@@ -1,0 +1,19 @@
+name: Habit Tracker
+description:
+  O Habit Tracker é uma aplicação web, que tem o objetivo principal de ajudar pessoas a construírem e manterem rotinas
+  saudáveis e produtivas, com metas diárias divididas em categorias como hidratação, atividade físca, alimentação, estudo, leitura.
+addresses:
+  preview: https://github.com/miguelaraujo3/habit-tracker/blob/master/preview.png?raw=true
+  homepage: https://miguelaraujo3.github.io/habit-tracker/
+  repository: https://github.com/miguelaraujo3/habit-tracker
+category:
+  type: subject  # ou 'subject', 'research', 'extension', 'open source'
+  subject: pw2-csbes-jp
+  period: 2026.2   # necessário para projetos de disciplina
+tags:
+  - HTML
+  - CSS
+  - GIT
+owners:
+  - 202614320024  # matrícula/ID dos colaboradores
+  -
