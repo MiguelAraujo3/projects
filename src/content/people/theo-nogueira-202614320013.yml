@@ -1,0 +1,17 @@
+name:
+  compact: Theo Nogueira
+  full: Theo Nogueira Virginio
+avatar:
+  github: https://github.com/TheoNogueiraVirginio.png
+  githubUC: https://avatars.githubusercontent.com/u/257308296?v=4
+occupations:
+  - id: 202614320013
+    type: student
+    course: csbes-jp
+    isFinished: false
+addresses:
+  github: https://github.com/TheoNogueiraVirginio
+  linkedin: https://www.linkedin.com/in/theo-nogueira-virginio
+  instagram: https://www.instagram.com/_theonv
+  hommepage: https://theonogueiravirginio.github.io/portifolio/
+  email: theonogueiravirginio@gmail.com
