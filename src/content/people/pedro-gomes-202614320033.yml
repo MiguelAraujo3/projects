@@ -1,0 +1,16 @@
+name:
+  compact: Pedro Gomes
+  full: Pedro Gomes de Andrade Neto
+avatar:
+  github: https://github.com/pedro-g-neto.png
+  githubUC: https://avatars.githubusercontent.com/u/210925441?v=4
+occupations:
+  - id: 202614320033
+    type: student
+    course: csbes-jp
+    isFinished: false
+addresses:
+  github: https://github.com/pedro-g-neto
+  linkedin: https://www.linkedin.com/in/pedrogneto
+  instagram: https://www.instagram.com/pedro.parquet
+  email: pedrogomesipubi2006@hotmail.com
