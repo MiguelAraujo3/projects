@@ -3,6 +3,7 @@ name:
   full: Lucas Linhares Diniz Ariete
 avatar:
   github: https://github.com/dreadanchor.png
+  githubUC: https://avatars.githubusercontent.com/u/131722677?v=4
 occupations:
   - id: 202614320020
     type: student
@@ -10,6 +11,6 @@ occupations:
     isFinished: false
 addresses:
   github: https://github.com/dreadanchor
-  linkedin: https://br.linkedin.com/in/lucas-ariete-62a452410?original_referer=https%3A%2F%2Fwww.linkedin.com%2F
+  linkedin: https://br.linkedin.com/in/lucas-ariete-62a452410
   homepage: https://dreadanchor.com/
   email: lucas.ariete@academico.ifpb.edu.br
