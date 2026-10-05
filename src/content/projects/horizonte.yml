@@ -1,6 +1,7 @@
 name: Horizonte
 description: Simulador de independência financeira que transforma metas em um plano visual de aportes, prazos e evolução patrimonial.
 addresses:
+  preview: https://github.com/loureiromaxx/horizonte/blob/main/preview.png?raw=true
   homepage: https://loureiromaxx.github.io/horizonte
   repository: https://github.com/loureiromaxx/horizonte
   workflow: https://github.com/users/loureiromaxx/projects/1
