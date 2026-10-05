@@ -1,0 +1,21 @@
+name: Horizonte
+description: Simulador de independência financeira que transforma metas em um plano visual de aportes, prazos e evolução patrimonial.
+addresses:
+  homepage: https://loureiromaxx.github.io/horizonte
+  repository: https://github.com/loureiromaxx/horizonte
+  workflow: https://github.com/users/loureiromaxx/projects/1
+  design: https://www.figma.com/design/dU7gBU8CStjYauZyXW1dEI/Horizonte?m=auto&t=UN6aDNtu2Y44G2t1-6
+category:
+  type: subject
+  subject: pw2-csbes-jp
+  period: 2026.2
+tags:
+  - html
+  - css
+  - javascript
+owners:
+  - 202614320022
+  - 202614320006
+  - 202614320002
+  - 20252380022
+  - 20252380004
