@@ -1,0 +1,14 @@
+name:
+  compact: João Neto
+  full: João Freires de Amorim Neto 
+avatar:
+  github: https://github.com/joaoneto1404.png
+occupations:
+  - id: 202614320006
+    type: student
+    course: csbes-jp
+    isFinished: false
+addresses:
+  github: https://github.com/joaoneto1404
+  linkedin: https://www.linkedin.com/in/joão-amorim-7867623a6
+  email: freires.joao@academico.ifpb.edu.br
