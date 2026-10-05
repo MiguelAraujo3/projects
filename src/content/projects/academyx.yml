@@ -1,0 +1,19 @@
+name: AcademyX
+description: Sistema Web para gamificação e gestão de estudos, conectando alunos e professores em disciplinas de diferentes áreas.
+addresses:
+  preview: https://private-user-images.githubusercontent.com/268027533/665321263-1c5bdddd-64d7-459a-8149-2b5360454533.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTExNjY0NjYsIm5iZiI6MTc5MTE2NjE2NiwicGF0aCI6Ii8yNjgwMjc1MzMvNjY1MzIxMjYzLTFjNWJkZGRkLTY0ZDctNDU5YS04MTQ5LTJiNTM2MDQ1NDUzMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMDA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTAwNVQwMjA5MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NzI5YmQxOGU3MGQzYzY3ODQyMGNiYWI3ZjlmYzhmOTdhYzExOTY4ZGU3NWZhYmQxNjNmY2E3ZDllMTQ1MGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.L3wd_3v9Ypi54grZO_x_lz4vErqwVxcCTNx6OrJEKgk?raw=true
+  repository: https://github.com/wsllins/academyx
+  workflow: https://github.com/users/wsllins/projects/2
+category:
+  type: subject
+  subject: pw2-csbes-jp
+  period: 2026.2
+tags:
+  - html
+  - css
+  - javascript
+owners:
+  - 202614320023
+  - 202614320008
+  - 202614320007
+  - 202614320026
